@@ -4,6 +4,11 @@ Repository for academic articles and excerpts regarding adaptive sensing and sam
 For completeness, a list of citations and brief summaries of papers is found below. To find the article in the repository which matches the citations here, you can search by authorlastname-year-affiliation-shortenedtitle.
 
 ### Paper summaries:
+C. J. Bucher, "Adaptive sampling - an iterative fast monte carlo procedure," Structural safety, vol. 5, no, 2, pp. 119-126, 1988.
+
+**Summary**: Outlines an approach which selects measurement goals in a multi-variate environment in which multiple targets are important to optimize for.
+
+
 B. Charrow, S. Liu, V. Kumar, and N. Michael, “Information-theoretic mapping using Cauchy-Schwarz Quadratic Mutual Information,” in Proceedings - IEEE International Conference on Robotics and Automation, 2015, vol. 2015–June, no. June.
 
 **Summary**:
@@ -26,7 +31,16 @@ E. Galceran and M. Carreras, “A survey on coverage path planning for robotics,
 
 G. A. Hollinger and G. S. Sukhatme, “Sampling-based robotic information gathering algorithms,” Int. J. Rob. Res., vol. 33, no. 9, 2014.
 
-**Summary**:
+**Summary**: Field work which employs the use of occupancy grids to localize hydrothermal vents is presented. Bayesian reasoning is employed to prevent the assumption of single-source explanations.
+
+
+M. Jakuba and D. R. Yoerger, "Autonomous search for hydrothermal vent fields with occupancy grid maps," Proc. of ACRA 08, 2008.
+
+**Summary**: 
+
+R. Kleinberg, "A multiple-choice secratary algorithm with applicatios to online auctions," in Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete algorithms, Society for Industrial and Applied Mathematics, 2005, pp. 630-631.
+
+**Summary**: In this version of the secretary problem the number of elements in the set is known, but the range of the elements is unknown. An algorithm is provided for estimating the best samples based upon an estimated range maximum.
 
 
 I. Kostavelis and A. Gasteratos, “Semantic mapping for mobile robotics tasks: A survey,” Rob. Auton. Syst., vol. 66, 2015.
@@ -37,6 +51,11 @@ I. Kostavelis and A. Gasteratos, “Semantic mapping for mobile robotics tasks: 
 Z. W. Lim, D. Hsu, and W. S. Lee, “Adaptive informative path planning in metric spaces,” in International Journal of Robotics Research, 2015, vol. 35, no. 5.
 
 **Summary**:
+
+
+D. Mandelli and C. Smith, "Adaptive sampling using support vector machines," Idaho National Laboratory, Tech. Rep., 2012.
+
+**Summary**: An approach to analyze the reliability and safety of temporal, sequential events if discussed. Other metods, including Latin Cube, Note Carlo, importance sampling, and orthogonal arrays are also discussed.
 
 
 R. Marchant and F. Ramos, “Bayesian Optimisation for informative continuous path planning,” in Proceedings - IEEE International Conference on Robotics and Automation, 2014, pp. 6136–6143.   
@@ -75,6 +94,16 @@ J. R. Souza, R. Marchant, L. Ott, D. F. Wolf, and F. Ramos, “Bayesian optimisa
 **Summary**:
 
 
+D. R. Thompson and D. Wettergreen, "Intelligent maps for autonomous kilometer-scale science survey," 2008.
+
+**Summary**: The use of science policies to modify path and sampling rate is presented for a static measurement target (topography). Monte Carlo and gradient descent are employedto establish so-called hyperparamters to define the sampling distribution.
+
+
 J. Vallvé and J. Andrade-Cetto, “Dense entropy decrease estimation for mobile robot exploration,” in Proceedings - IEEE International Conference on Robotics and Automation, 2014.
 
 **Summary**:
+
+
+N. K. Yilmaz, C. Evangelinos, P. F. Lermusiau, and N. M. Patrikalakis, "Path planning of autonomous underwater vehicles for adaptive sampling using mixed integer linear programming," IEEE Journal of Oceanic Engineering, vol. 33, no. 4, pp. 552-537, 2008.
+
+**Summary**: The authors argue for a particular objective and restriction formulation of a MILP in order to perform adaptive sampling in a 2D vector field with multiple interesting quantities. 
