@@ -3,15 +3,15 @@ Repository for academic articles and excerpts regarding adaptive sensing and sam
 
 For completeness, a list of citations and brief summaries of papers is found below. To find the article in the repository which matches the citations here, you can search by authorlastname-year-affiliation-shortenedtitle.
 
-### Paper summaries:
+## Paper Citations and Descriptions
 C. J. Bucher, "Adaptive sampling - an iterative fast monte carlo procedure," Structural safety, vol. 5, no, 2, pp. 119-126, 1988.
 
-**Summary**: Outlines an approach which selects measurement goals in a multi-variate environment in which multiple targets are important to optimize for.
+> Outlines an approach which selects measurement goals in a multi-variate environment in which multiple targets are important to optimize for.
 
 
 C. J. Canell and D. J. Stilwell, "A comparison of two approaches for adaptive sampling of environmental processes using autonomous underwater vehicles," in Oceans, 2005. Proceedings of MTS/IEEE, IEEE, 2005, pp. 1514-1521.
 
-**Summary**: Parametric estimation and trained classification are compared in which the first updates a world model using regression or a filter and the second makes use of training data to establish an "ambience" baseline from which variations are detected. 
+> Parametric estimation and trained classification are compared in which the first updates a world model using regression or a filter and the second makes use of training data to establish an "ambience" baseline from which variations are detected. 
 
 
 B. Charrow, S. Liu, V. Kumar, and N. Michael, “Information-theoretic mapping using Cauchy-Schwarz Quadratic Mutual Information,” in Proceedings - IEEE International Conference on Robotics and Automation, 2015, vol. 2015–June, no. June.
