@@ -9,6 +9,11 @@ C. J. Bucher, "Adaptive sampling - an iterative fast monte carlo procedure," Str
 **Summary**: Outlines an approach which selects measurement goals in a multi-variate environment in which multiple targets are important to optimize for.
 
 
+C. J. Canell and D. J. Stilwell, "A comparison of two approaches for adaptive sampling of environmental processes using autonomous underwater vehicles," in Oceans, 2005. Proceedings of MTS/IEEE, IEEE, 2005, pp. 1514-1521.
+
+**Summary**: Parametric estimation and trained classification are compared in which the first updates a world model using regression or a filter and the second makes use of training data to establish an "ambience" baseline from which variations are detected. 
+
+
 B. Charrow, S. Liu, V. Kumar, and N. Michael, “Information-theoretic mapping using Cauchy-Schwarz Quadratic Mutual Information,” in Proceedings - IEEE International Conference on Robotics and Automation, 2015, vol. 2015–June, no. June.
 
 **Summary**:
@@ -16,12 +21,22 @@ B. Charrow, S. Liu, V. Kumar, and N. Michael, “Information-theoretic mapping u
 
 S. M. Chaves, A. Kim, and R. M. Eustice, “Opportunistic sampling-based planning for active visual SLAM,” in IEEE International Conference on Intelligent Robots and Systems, 2014.
 
-**Summary**:
+**Summary**: 
+
+
+N. A. Cruz and A. C. Matos, "Adaptive sampling of thermoclines with autonomous underwater vehicles," in Oceans 2010, IEEE, 2010, pp. 1-6.
+
+**Summary**: Conductivity-Temperature-Density (CTD) intrumentation feedback is used to set and adjust a depth reference for an underwater vehicle's finite state machine to adjust behavior. A primitive confidence metric is employed to add stability to the navigation.
 
 
 A. Das et al., “Mapping, planning, and sample detection strategies for autonomous exploration,” J. F. Robot., vol. 31, no. 1, 2014.
 
 **Summary**:
+
+
+C. Domingo, R. Gavalda, and O. Watanabe, "Adaptive smapling methods for scaling up knowledge discovery algorithms," Data Mining and Knowledge Discovery, vol. 6, no. 2, pp. 131-152, 2002.
+
+**Summary**: An algorithm is presented which determines how many samples in a set to take for optimal knowledge gain. An uncertainty measure is used. 
 
 
 E. Galceran and M. Carreras, “A survey on coverage path planning for robotics,” Rob. Auton. Syst., vol. 61, no. 12, 2013.
@@ -34,9 +49,15 @@ G. A. Hollinger and G. S. Sukhatme, “Sampling-based robotic information gather
 **Summary**: Field work which employs the use of occupancy grids to localize hydrothermal vents is presented. Bayesian reasoning is employed to prevent the assumption of single-source explanations.
 
 
+V. Hombal, A. Sanderson, and D. R. Blidberg, "Multiscale adaptive sampling in environmental robotics," in Multisensor Fusion and Integration for Intelligent Systems (MFI), 2010 IEEE Conference on, IEEE, 2010, pp. 80-87. 
+
+**Summary**: Static phemonena are measured in order to define an underlying functional relationship. A hierarchical model for coarse-to-fine estimates of an observation set is used. The proposed method converges in simulation around 1000+ samples, creating a map that is at least as good as a traditional lawnmower navigation while optimizing for distance, budget, error, etc. 
+
+
 M. Jakuba and D. R. Yoerger, "Autonomous search for hydrothermal vent fields with occupancy grid maps," Proc. of ACRA 08, 2008.
 
 **Summary**: 
+
 
 R. Kleinberg, "A multiple-choice secratary algorithm with applicatios to online auctions," in Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete algorithms, Society for Industrial and Applied Mathematics, 2005, pp. 630-631.
 
@@ -77,6 +98,11 @@ M. Popovic, G. Hitz, J. Nieto, I. Sa, R. Siegwart, and E. Galceran, “Online in
 
 
 **Summary**:
+
+
+M. Rahimi, M. Hansen, W. J. Kaiser, G. S. Sukhatme, and D. Estrin, "Adaptive sampling for environmental field estimation using robotic sensors," in IROS, 2005, IEEE, 2005, pp. 3692-3698.
+
+**Summary**: The authors present "Networked Info-Mechanical System" or NIMS which uses fault identification to determine an adaptive behavior for sample gathering in an environment.
 
 
 S. A. Sadat, J. Wawerla, and R. T. Vaughan, “Recursive non-uniform coverage of unknown terrains for UAVs,” in IEEE International Conference on Intelligent Robots and Systems, 2014.
