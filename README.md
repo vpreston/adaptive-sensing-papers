@@ -39,9 +39,19 @@ C. Domingo, R. Gavalda, and O. Watanabe, "Adaptive smapling methods for scaling 
 **Summary**: An algorithm is presented which determines how many samples in a set to take for optimal knowledge gain. An uncertainty measure is used. 
 
 
+H. El-Hussieny, S. F. M. Assal, and M. Abdellatif, "Robotic exploration: new heuristic backtracking algorithm, performance evaluation and complexity metric," IJARS, 2015.
+
+**Summary**:
+
+
 E. Galceran and M. Carreras, “A survey on coverage path planning for robotics,” Rob. Auton. Syst., vol. 61, no. 12, 2013.
 
 **Summary**:
+
+
+Y. Girdhar and G. Dudek, "Modeling curiousity in a mobile robot for long-term autonomous exploration and monitoring," Autonomous Robotics, 2016.
+
+**Summary**: 
 
 
 G. A. Hollinger and G. S. Sukhatme, “Sampling-based robotic information gathering algorithms,” Int. J. Rob. Res., vol. 33, no. 9, 2014.
@@ -52,6 +62,11 @@ G. A. Hollinger and G. S. Sukhatme, “Sampling-based robotic information gather
 V. Hombal, A. Sanderson, and D. R. Blidberg, "Multiscale adaptive sampling in environmental robotics," in Multisensor Fusion and Integration for Intelligent Systems (MFI), 2010 IEEE Conference on, IEEE, 2010, pp. 80-87. 
 
 **Summary**: Static phemonena are measured in order to define an underlying functional relationship. A hierarchical model for coarse-to-fine estimates of an observation set is used. The proposed method converges in simulation around 1000+ samples, creating a map that is at least as good as a traditional lawnmower navigation while optimizing for distance, budget, error, etc. 
+
+
+R. Houthooft, X. Chen, Y. Duan, and J. Schulman, "VIME: Variational information maximizing exploration," Advances in Neural Information Processing Systems, 2016. 
+
+**Summary**:
 
 
 M. Jakuba and D. R. Yoerger, "Autonomous search for hydrothermal vent fields with occupancy grid maps," Proc. of ACRA 08, 2008.
@@ -67,6 +82,11 @@ R. Kleinberg, "A multiple-choice secratary algorithm with applicatios to online 
 I. Kostavelis and A. Gasteratos, “Semantic mapping for mobile robotics tasks: A survey,” Rob. Auton. Syst., vol. 66, 2015.
 
 **Summary**:
+
+
+M. Lauri and R. Ritala, "Planning for robotic exploration based on forward simulation," ICRA, 2016.
+
+**Summary**: 
 
 
 Z. W. Lim, D. Hsu, and W. S. Lee, “Adaptive informative path planning in metric spaces,” in International Journal of Robotics Research, 2015, vol. 35, no. 5.
@@ -110,12 +130,22 @@ S. A. Sadat, J. Wawerla, and R. T. Vaughan, “Recursive non-uniform coverage of
 **Summary**:
 
 
+M. Schwager, P. Dames, D. Rus, and V. Kumar, "A multi-robot control policy for information gathering in the presence of unknown hazards," Robotics Research, 2017.
+
+**Summary**:
+
+
 A. Singla, E. Horvitz, P. Kohli, R. White, and A. Krause, “Information gathering in networks via active exploration,” in IJCAI International Joint Conference on Artificial Intelligence, 2015, vol. 2015–January. 
 
 **Summary**:
 
 
 J. R. Souza, R. Marchant, L. Ott, D. F. Wolf, and F. Ramos, “Bayesian optimisation for active perception and smooth navigation,” in Proceedings - IEEE International Conference on Robotics and Automation, 2014.
+
+**Summary**:
+
+
+D. P. Strom, F. Nenci, and C. Stachniss, "Predictive exploration considering previously mapped environments," ICRA, 2015.
 
 **Summary**:
 
