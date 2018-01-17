@@ -29,29 +29,10 @@ N. A. Cruz and A. C. Matos, "Adaptive sampling of thermoclines with autonomous u
 > Conductivity-Temperature-Density (CTD) intrumentation feedback is used to set and adjust a depth reference for an underwater vehicle's finite state machine to adjust behavior. A primitive confidence metric is employed to add stability to the navigation.
 
 
-A. Das et al., “Mapping, planning, and sample detection strategies for autonomous exploration,” J. F. Robot., vol. 31, no. 1, 2014.
-
-> TODO
-
 
 C. Domingo, R. Gavalda, and O. Watanabe, "Adaptive smapling methods for scaling up knowledge discovery algorithms," Data Mining and Knowledge Discovery, vol. 6, no. 2, pp. 131-152, 2002.
 
-> An algorithm is presented which determines how many samples in a set to take for optimal knowledge gain. An uncertainty measure is used. 
-
-
-H. El-Hussieny, S. F. M. Assal, and M. Abdellatif, "Robotic exploration: new heuristic backtracking algorithm, performance evaluation and complexity metric," IJARS, 2015.
-
-> TODO
-
-
-E. Galceran and M. Carreras, “A survey on coverage path planning for robotics,” Rob. Auton. Syst., vol. 61, no. 12, 2013.
-
-> TODO
-
-
-Y. Girdhar and G. Dudek, "Modeling curiousity in a mobile robot for long-term autonomous exploration and monitoring," Autonomous Robotics, 2016.
-
-> TODO 
+> An algorithm is presented which determines how many samples in a set to take for optimal knowledge gain. An uncertainty measure is used.  
 
 
 G. A. Hollinger and G. S. Sukhatme, “Sampling-based robotic information gathering algorithms,” Int. J. Rob. Res., vol. 33, no. 9, 2014.
@@ -64,29 +45,14 @@ V. Hombal, A. Sanderson, and D. R. Blidberg, "Multiscale adaptive sampling in en
 > Static phemonena are measured in order to define an underlying functional relationship. A hierarchical model for coarse-to-fine estimates of an observation set is used. The proposed method converges in simulation around 1000+ samples, creating a map that is at least as good as a traditional lawnmower navigation while optimizing for distance, budget, error, etc. 
 
 
-R. Houthooft, X. Chen, Y. Duan, and J. Schulman, "VIME: Variational information maximizing exploration," Advances in Neural Information Processing Systems, 2016. 
-
-> TODO
-
-
 M. Jakuba and D. R. Yoerger, "Autonomous search for hydrothermal vent fields with occupancy grid maps," Proc. of ACRA 08, 2008.
 
 > TODO
 
 
-R. Kleinberg, "A multiple-choice secratary algorithm with applicatios to online auctions," in Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete algorithms, Society for Industrial and Applied Mathematics, 2005, pp. 630-631.
+R. Kleinberg, "A multiple-choice secratary algorithm with applications to online auctions," in Proceedings of the sixteenth annual ACM-SIAM symposium on Discrete algorithms, Society for Industrial and Applied Mathematics, 2005, pp. 630-631.
 
 > In this version of the secretary problem the number of elements in the set is known, but the range of the elements is unknown. An algorithm is provided for estimating the best samples based upon an estimated range maximum.
-
-
-I. Kostavelis and A. Gasteratos, “Semantic mapping for mobile robotics tasks: A survey,” Rob. Auton. Syst., vol. 66, 2015.
-
-> TODO
-
-
-M. Lauri and R. Ritala, "Planning for robotic exploration based on forward simulation," ICRA, 2016.
-
-> TODO 
 
 
 Z. W. Lim, D. Hsu, and W. S. Lee, “Adaptive informative path planning in metric spaces,” in International Journal of Robotics Research, 2015, vol. 35, no. 5.
@@ -99,64 +65,9 @@ D. Mandelli and C. Smith, "Adaptive sampling using support vector machines," Ida
 > An approach to analyze the reliability and safety of temporal, sequential events if discussed. Other metods, including Latin Cube, Note Carlo, importance sampling, and orthogonal arrays are also discussed.
 
 
-R. Marchant and F. Ramos, “Bayesian Optimisation for informative continuous path planning,” in Proceedings - IEEE International Conference on Robotics and Automation, 2014, pp. 6136–6143.   
-
-> TODO 
-
-
-R. Marchant, F. Ramos, and S. Sanner, “Sequential Bayesian Optimisation for Spatial-Temporal Monitoring,” Conf. Uncertain. Artif. Intell., 2014.
-
-> TODO
-
-
-P. Morere, R. Marchant, and F. Ramos, “Sequential Bayesian optimization as a POMDP for environment monitoring with UAVs,” in Proceedings - IEEE International Conference on Robotics and Automation, 2017.
-
-> TODO
-
-
-M. Popovic, G. Hitz, J. Nieto, I. Sa, R. Siegwart, and E. Galceran, “Online informative path planning for active classification using UAVs,” in Proceedings - IEEE International Conference on Robotics and Automation, 2017.
-
-> TODO
-
-
 M. Rahimi, M. Hansen, W. J. Kaiser, G. S. Sukhatme, and D. Estrin, "Adaptive sampling for environmental field estimation using robotic sensors," in IROS, 2005, IEEE, 2005, pp. 3692-3698.
 
 > The authors present "Networked Info-Mechanical System" or NIMS which uses fault identification to determine an adaptive behavior for sample gathering in an environment.
-
-
-S. A. Sadat, J. Wawerla, and R. T. Vaughan, “Recursive non-uniform coverage of unknown terrains for UAVs,” in IEEE International Conference on Intelligent Robots and Systems, 2014.
-
-> TODO
-
-
-M. Schwager, P. Dames, D. Rus, and V. Kumar, "A multi-robot control policy for information gathering in the presence of unknown hazards," Robotics Research, 2017.
-
-> TODO
-
-
-A. Singla, E. Horvitz, P. Kohli, R. White, and A. Krause, “Information gathering in networks via active exploration,” in IJCAI International Joint Conference on Artificial Intelligence, 2015, vol. 2015–January. 
-
-> TODO
-
-
-J. R. Souza, R. Marchant, L. Ott, D. F. Wolf, and F. Ramos, “Bayesian optimisation for active perception and smooth navigation,” in Proceedings - IEEE International Conference on Robotics and Automation, 2014.
-
-> TODO
-
-
-D. P. Strom, F. Nenci, and C. Stachniss, "Predictive exploration considering previously mapped environments," ICRA, 2015.
-
-> TODO
-
-
-D. R. Thompson and D. Wettergreen, "Intelligent maps for autonomous kilometer-scale science survey," 2008.
-
-> The use of science policies to modify path and sampling rate is presented for a static measurement target (topography). Monte Carlo and gradient descent are employedto establish so-called hyperparamters to define the sampling distribution.
-
-
-J. Vallvé and J. Andrade-Cetto, “Dense entropy decrease estimation for mobile robot exploration,” in Proceedings - IEEE International Conference on Robotics and Automation, 2014.
-
-> TODO
 
 
 N. K. Yilmaz, C. Evangelinos, P. F. Lermusiau, and N. M. Patrikalakis, "Path planning of autonomous underwater vehicles for adaptive sampling using mixed integer linear programming," IEEE Journal of Oceanic Engineering, vol. 33, no. 4, pp. 552-537, 2008.
