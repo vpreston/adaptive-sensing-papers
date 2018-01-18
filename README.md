@@ -37,7 +37,7 @@ C. Domingo, R. Gavalda, and O. Watanabe, "Adaptive smapling methods for scaling 
 
 G. A. Hollinger and G. S. Sukhatme, “Sampling-based robotic information gathering algorithms,” Int. J. Rob. Res., vol. 33, no. 9, 2014.
 
-> Field work which employs the use of occupancy grids to localize hydrothermal vents is presented. Bayesian reasoning is employed to prevent the assumption of single-source explanations.
+> Introduces a sampling-based planning algorithm for planning robot trajectories that maximize some notion of "information", while remaining below a fixed trajectory budget. Algorithm is verfied in fieldwork using a surface vehicle to map the strength of a WiFi signal over the surface of a lake.
 
 
 V. Hombal, A. Sanderson, and D. R. Blidberg, "Multiscale adaptive sampling in environmental robotics," in Multisensor Fusion and Integration for Intelligent Systems (MFI), 2010 IEEE Conference on, IEEE, 2010, pp. 80-87. 
