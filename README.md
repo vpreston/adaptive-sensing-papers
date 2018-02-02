@@ -28,8 +28,6 @@ N. A. Cruz and A. C. Matos, "Adaptive sampling of thermoclines with autonomous u
 
 > Conductivity-Temperature-Density (CTD) intrumentation feedback is used to set and adjust a depth reference for an underwater vehicle's finite state machine to adjust behavior. A primitive confidence metric is employed to add stability to the navigation.
 
-
-
 C. Domingo, R. Gavalda, and O. Watanabe, "Adaptive smapling methods for scaling up knowledge discovery algorithms," Data Mining and Knowledge Discovery, vol. 6, no. 2, pp. 131-152, 2002.
 
 > An algorithm is presented which determines how many samples in a set to take for optimal knowledge gain. An uncertainty measure is used.  
@@ -73,3 +71,20 @@ M. Rahimi, M. Hansen, W. J. Kaiser, G. S. Sukhatme, and D. Estrin, "Adaptive sam
 N. K. Yilmaz, C. Evangelinos, P. F. Lermusiau, and N. M. Patrikalakis, "Path planning of autonomous underwater vehicles for adaptive sampling using mixed integer linear programming," IEEE Journal of Oceanic Engineering, vol. 33, no. 4, pp. 552-537, 2008.
 
 > The authors argue for a particular objective and restriction formulation of a MILP in order to perform adaptive sampling in a 2D vector field with multiple interesting quantities. 
+
+W. Luo, Changjoo Nam, and K. Sycara, “Online Decision Making for Stream-based Robotic Sampling via Submodular Optimization,” in Proc. of IEEE Int. Conf. on Multisensor Fusion and Integration for Intelligent Systems (MFI), Daegu, Korea, Nov 2017.
+
+> Collect the k best samples from n sequentially occuring measurements using information theoretic utility functions. Present an online submodular algorithm for stream-based sensor selection such the predictions over untested measurements is most accurate.
+
+A. Singh, F. Ramos, and W. J. K. Hugh F. Durrant-Whyte, “Modeling and decision making in spatio-temporal processes for environmental surveillance.,” in ICRA, pp. 5490–5497, IEEE, 2010
+
+> GPs are commonly used to model spatial dynamics; however, it is challenging to define good covariance functions. Develops approach for construction covariance functions for spatio-temporal GP modeling. Uses GP models to perform efficient path planning while maximizing information gain. Empirical analysis of performance on a sensing network is discussed.
+
+N. Srinivas, A. Krause, S. Kakade, and M. Seeger, “Information-theoretic regret bounds for gaussian process optimization in the bandit setting,” IEEE Transactions on Information Theory, vol. 58, pp. 3250–3265, May 2012.
+
+> Present a multiarmed bandit solution to the problem of optimizing and unknown, noisy function with a payoff function sampled from a GP or with low norm in RKHS. Derives regret bounds for this setting and makes connections between experimental design and GP optimization. Uses GP-Upper confidence bound metrics.
+
+Meliou, A., Krause, A., Guestrin, C., & Hellerstein, J. M. (2007, July). Nonmyopic informative path planning in spatio-temporal models. In AAAI (Vol. 10, No. 4, pp. 16-7).
+
+> For continuously monitoring sensing applications, presents an algorithm for planning robot/sensor “tours” of the environment with strong theoretical guarantees.
+
